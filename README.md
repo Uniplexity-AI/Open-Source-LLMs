@@ -1,5 +1,5 @@
 
-# Open-Source-LLMs 🚀
+# Open-Source-LLMs Notebooks 🚀
 
 Welcome to the **Open-Source-LLMs** repository! This project is designed to help developers, students, and AI enthusiasts prototype and experiment with **Large Language Models (LLMs)**. The notebooks provided are optimized for **fast prototyping** on platforms like **Google Colab**, making it accessible to users with small laptops or limited hardware.
 
